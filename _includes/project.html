@@ -10,7 +10,7 @@
   <div class="row">
     <div class="{{ classCols }} {{ classColLeft }}">
       {% if [include.type]imgname %}
-      <img src="/assets/projects/{{ [include.type]imgname }}" alt="Project Image" class="project-image img-responsive">
+      <img src="assets/projects/{{ [include.type]imgname }}" alt="Project Image" class="project-image img-responsive">
       {% endif %}
     </div>
 
@@ -29,7 +29,7 @@
                     {% capture laburl %}en/{{ laburl }}{% endcapture %}
                   {% endif %}
                   <div class="event-location icon-before project-lab">
-                    <a href="/{{ laburl }}">{{ project_lab }}</a>
+                    <a href="{{ laburl }}">{{ project_lab }}</a>
                   </div>
                   {% break %}
                 {% endif %}
