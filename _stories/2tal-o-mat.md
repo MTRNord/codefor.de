@@ -2,7 +2,7 @@
 layout: story
 color: cyan #one of: red, blue, green, cyan
 pattern: 2 #one of: 1, 2, 3, 4 
-og-image: /assets/stories/talomat.jpg # used for facebook & twitter card
+og-image: assets/stories/talomat.jpg # used for facebook & twitter card
 
 
 title: Tal-O-Mat – Bürgerbeteiligung ernst nehmen 
@@ -22,7 +22,7 @@ links: # first one is used in subline
   url: https://www.abgeordnetenwatch.de/oberb%C3%BCrgermeisterwahl%20nrw/profile?field_user_constituency_tid=19705
 
 header-images: #use 3:2 proportioned image
-- src: /assets/stories/talomat.jpg
+- src: assets/stories/talomat.jpg
   alt: Das Talomat Team
 
 lead: Ann-Cathrin Klappert, Christopher Reinbothe und Sam Zeini haben einen Tal-O-Maten gebaut. Der informiert die Bevölkerung zu Wuppertaler Wahlen. Eine Geschichte über Crowdsourcing, Flyerfragen und ein kleines Team, das die Bürgerbeteiligung sehr ernst nimmt.

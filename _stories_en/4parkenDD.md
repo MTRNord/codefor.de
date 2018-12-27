@@ -3,7 +3,7 @@ layout: story
 lang: en
 color: blue #red, blue, green, cyan
 pattern: 3 #one of: 1, 2, 3, 4
-og-image: /assets/stories/parkendd-hero.jpg # used for facebook & twitter card
+og-image: assets/stories/parkendd-hero.jpg # used for facebook & twitter card
 
 
 title: ParkenDD - Efficient Parking in Dresden
@@ -23,7 +23,7 @@ links: # first one is used in subline
   url: http://www.sz-online.de/nachrichten/studenten-helfen-bei-der-parkplatzsuche-3128007.html
 
 header-images: #use 3:2 proportioned image
-- src: /assets/stories/parkendd-hero.jpg
+- src: assets/stories/parkendd-hero.jpg
   alt: Johannes Kliemann und Kilian Költzsch zeigen ihre App.
   caption: Johannes und Kilian  © Norbert Millauer
 

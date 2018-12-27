@@ -3,7 +3,7 @@ layout: story
 lang: en
 color: cyan #one of: red, blue, green, cyan
 pattern: 1 #one of: 1, 2, 3, 4
-og-image: /assets/projects/muenchen/Muenchen-Transparent.png # used for facebook & twitter card
+og-image: assets/projects/muenchen/Muenchen-Transparent.png # used for facebook & twitter card
 
 
 title: Munich Transparent – Local Politics Made Easy
@@ -17,7 +17,7 @@ links: # first one is used in subline
   url: http://www.sueddeutsche.de/muenchen/onlineportal-muenchen-transparent-das-glaeserne-rathaus-1.2328588
 
 header-images: #use 3:2 proportioned image
-- src: /assets/projects/muenchen/Muenchen-Transparent.png
+- src: assets/projects/muenchen/Muenchen-Transparent.png
   alt: Die Website von München Transparent
 
 lead: Tobias Hößl was annoyed by the local administration's council information system. He decided to make his own website that provided crucial features. This project has now become a platform for transparency in Munich. The users are thrilled.

@@ -2,7 +2,7 @@
 layout: story
 color: red #one of: red, blue, green, cyan
 pattern: 1 #one of: 1, 2, 3, 4
-og-image: /assets/stories/feinstaub.jpg # used for facebook & twitter card
+og-image: assets/stories/feinstaub.jpg # used for facebook & twitter card
 
 title: Stuttgart – aus Feinstaub wird Open Data
 where: Stuttgart
@@ -22,7 +22,7 @@ links: # first one is used in subline
   url: http://www.stuttgarter-zeitung.de/inhalt.keine-offiziellen-messstationen-in-stuttgart-nord-feinstaub-messen-selbst-gemacht.html
 
 header-images: #use 3:2 proportioned image
-- src: /assets/stories/feinstaub.jpg
+- src: assets/stories/feinstaub.jpg
   alt: Das Luftdaten Team
 
 lead: Das Team um Jan Lutz errichtet zurzeit ein Netzwerk von Feinstaub-Sensoren in Stuttgart. Das soll die Datenlage verbessern und somit die Diskussion über das Umwelt- und Gesundheitsproblem besser informieren.

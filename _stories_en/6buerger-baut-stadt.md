@@ -3,7 +3,7 @@ layout: story
 lang: en
 color: red #red, blue, green, cyan
 pattern: 2 #one of: 1, 2, 3, 4
-og-image: /assets/stories/bbs-hero.jpg # used for facebook & twitter card
+og-image: assets/stories/bbs-hero.jpg # used for facebook & twitter card
 
 title: Citizen Builds City - Constructive Criticism
 where: Berlin
@@ -16,7 +16,7 @@ links: # first one is used in subline
   url: https://youtu.be/4xJCP3eecG8
 
 header-images: #use 3:2 proportioned image
-- src: /assets/stories/bbs-hero.jpg
+- src: assets/stories/bbs-hero.jpg
   alt: Magdalena Noffke, Elektrischer Reporter
   caption: Magda © Elektrischer Reporter
 

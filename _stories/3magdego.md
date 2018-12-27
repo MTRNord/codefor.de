@@ -2,7 +2,7 @@
 layout: story
 color: green #one of: red, blue, green, cyan
 pattern: 4 #one of: 1, 2, 3, 4 
-og-image: /assets/stories/magdego-hero.jpg # used for facebook & twitter card
+og-image: assets/stories/magdego-hero.jpg # used for facebook & twitter card
 
 
 title: MagdeGo - Nahverkehr, schnell und einfach.
@@ -22,7 +22,7 @@ links: # first one is used in subline
   url: http://www.fokus-du.de/front_content.php?idcat=362&idart=880&page=2&page_begin=0
 
 header-images: #use 3:2 proportioned image
-- src: /assets/stories/magdego-hero.jpg
+- src: assets/stories/magdego-hero.jpg
   alt: Rosario Raulin und Johannes Filter zeigen Smartphones mit ihrer App vor einer Strassenbahn
   caption: Rosario und Johannes © Stefan Berger
 

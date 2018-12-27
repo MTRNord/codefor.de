@@ -3,7 +3,7 @@ layout: story
 lang: en
 color: cyan #one of: red, blue, green, cyan
 pattern: 2 #one of: 1, 2, 3, 4
-og-image: /assets/stories/talomat.jpg # used for facebook & twitter card
+og-image: assets/stories/talomat.jpg # used for facebook & twitter card
 
 
 title: Tal-O-Mat – Taking Participation Seriously
@@ -21,7 +21,7 @@ links: # first one is used in subline
   url: http://www.tal-journal.net/2014/05/tadaaa-ein-talomat-fur-wuppertal.html
 
 header-images: #use 3:2 proportioned image
-- src: /assets/stories/talomat.jpg
+- src: assets/stories/talomat.jpg
   alt: The Talomat Team
 
 lead: Ann-Cathrin Klappert, Christopher Reinbothe and Sam Zeini built a Tal-O-Mat together. It informs people in Wuppertal about local elections. A story about crowdsourcing, flyer questions and a small team that takes citizen participation very seriously.
