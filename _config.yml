@@ -1,7 +1,7 @@
 title: "Code for Germany"
 description: "Stadt&lt;entwickler /&gt; nutzen offene Daten um ihre Stadt zu verbessern"
 url: http://codefor.de
-baseurl: "/codefor.de"
+baseurl: /codefor.de
 production_url : https://mtrnord.github.io/codefor.de
 BASE_PATH : https://mtrnord.github.io/codefor.de
 markdown: kramdown
