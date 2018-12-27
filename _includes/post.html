@@ -1,6 +1,6 @@
 <div class="event-wrapper fond__white clearfix">
   <div class="post-header clearfix">
-    <h1 class="post-title" ><a href="{{ page.url }}">{{ page.title }}</a></h1>
+    <h1 class="post-title" ><a href="{{ page.url | prepend:site.baseurl }}">{{ page.title }}</a></h1>
     <div class="post-meta">
       <span class="blog-author-and-date"> von {{ page.author }} am {{ page.date | date: "%d.%m.%y" }}</span><br>
       {% unless page.tags == empty %}
