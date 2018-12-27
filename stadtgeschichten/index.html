@@ -7,7 +7,7 @@ og-image: img/stories-wallpaper-og-img.png
 <div class="container-fluid clearfix">
 	{% for story in site.stories %}
 	<div class="col-md-6 story-teaser story__{{ story.color }}">  	
-		<a href="{{ story.url }}" >
+		<a href="{{ story.url | prepend:site.baseurl}}" >
 			<div class="story-teaser--image">
 				{% case story.pattern %}
 				    {% when 1 %}
