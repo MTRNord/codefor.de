@@ -28,12 +28,12 @@ collections:
   labs:
   stories:
     output: true
-    permalink: /stadtgeschichten/:path/
+    permalink: stadtgeschichten/:path/
   stories_en:
     output: true
-    permalink: /en/stadtgeschichten/:path/
+    permalink: en/stadtgeschichten/:path/
   digitalrefugeelabs:
   wahlsalons:
     output: true
-    permalink: /wahlsalons/:path/
+    permalink: wahlsalons/:path/
 keep_files: [img, assets]
