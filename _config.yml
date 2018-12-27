@@ -36,5 +36,4 @@ collections:
   wahlsalons:
     output: true
     permalink: /wahlsalons/:path/
-
-
+keep_files: [img, assets]
