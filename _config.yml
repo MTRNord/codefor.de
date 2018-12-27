@@ -16,7 +16,6 @@ exclude:
   #- "presse" # uncomment line to speed up jekyll build for development
 sass:
     style: :compressed
-relative_permalinks: true
 permalink: blog/:title.html
 excerpt_separator: "\n"
 paginate: 5
