@@ -1,26 +1,26 @@
 de:
   - title: Presse
-    url: /presse
+    url: presse
   - title: Über
-    url: /ueber
+    url: ueber
   - title: Mitmachen
-    url: /mitmachen
+    url: mitmachen
   - title: Projekte
-    url: /projekte
+    url: projekte
   - title: Blog
-    url: /blog
+    url: blog
   - title: Stadtgeschichten
-    url: /stadtgeschichten
+    url: stadtgeschichten
 en:
   - title: Press (de)
-    url: /presse
+    url: presse
   - title: About
-    url: /en/ueber
+    url: en/ueber
   - title: Join
-    url: /en/mitmachen
+    url: en/mitmachen
   - title: Projects
-    url: /en/projekte
+    url: en/projekte
   - title: Blog (de)
-    url: /blog
+    url: blog
   - title: Stories
-    url: /en/stadtgeschichten
+    url: en/stadtgeschichten
